@@ -1,0 +1,33 @@
+{
+  "name": "react-chartjs",
+  "main": "react-chartjs.js",
+  "version": "0.6.0",
+  "homepage": "https://github.com/temnoregg/react-chartjsi-bower",
+  "description": "react charting components using the chartjs lib",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "react",
+    "react-component",
+    "chart",
+    "charts",
+    "graph",
+    "chartjs"
+  ],
+  "authors": [
+    "Joe Hudson"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
